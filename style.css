@@ -1,0 +1,42 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0;
+  }
+
+h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: normal;
+    margin-bottom: 32px;
+
+}
+
+span{
+    color: #FF9900;
+}
+
+div a{
+    color: #FF9900;
+}
+
+p, #footer {
+    color: #7D7987;
+  
+    font-size: 14px;
+    line-height: 28px;
+  }
+
+  #rodape a + a{
+    margin-left: 28px;
+  }
+
+  #bolinhas{
+    position: fixed;
+    left: 93.28%;
+    right: -0.97%;
+    top: 89.17%;
+    bottom: -1.39%;
+  
+  }
